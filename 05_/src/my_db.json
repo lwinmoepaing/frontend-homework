@@ -1,0 +1,42 @@
+[
+  {
+    "formName": "Enter your name",
+    "placeholder": "eg Mg Mg",
+    "isRequired": true,
+    "type": "input",
+    "value": "",
+    "isHidden": false,
+    "isAction": false,
+    "options": []
+  },
+  {
+    "formName": "Enter your email",
+    "placeholder": "eg example@gmail.com",
+    "isRequired": true,
+    "type": "email",
+    "value": "",
+    "isHidden": false,
+    "isAction": false,
+    "options": []
+  },
+  {
+    "formName": "Note",
+    "placeholder": "Enter note",
+    "isRequired": false,
+    "type": "textarea",
+    "value": "",
+    "isAction": false,
+    "isHidden": false,
+    "options": []
+  },
+  {
+    "formName": "Submit",
+    "placeholder": "",
+    "isRequired": false,
+    "type": "submit",
+    "value": "",
+    "isAction": false,
+    "isHidden": false,
+    "options": []
+  }
+]
